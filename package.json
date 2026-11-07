@@ -1,0 +1,14 @@
+{
+  "name": "jarvis-ai-os",
+  "version": "4.2.0",
+  "description": "J.A.R.V.I.S. Personal AI Operating System — Mobile APK & Web HUD",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p www && cp index.html www/index.html"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
