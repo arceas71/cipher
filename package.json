@@ -1,7 +1,7 @@
 {
-  "name": "jarvis-ai-os",
-  "version": "4.2.0",
-  "description": "J.A.R.V.I.S. Personal AI Operating System — Mobile APK & Web HUD",
+  "name": "cipher-ai-agent",
+  "version": "5.0.0",
+  "description": "C.I.P.H.E.R. — Holographic AI Task Agent (Android APK & Web HUD)",
   "private": true,
   "scripts": {
     "build": "mkdir -p www && cp index.html www/index.html"
