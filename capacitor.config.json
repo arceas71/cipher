@@ -1,9 +1,10 @@
 {
-  "appId": "com.arceas71.jarvis",
+  "appId": "com.arceas71.cipher",
   "appName": "CIPHER",
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
-    "androidScheme": "https"
+    "androidScheme": "https",
+    "cleartext": true
   }
 }
